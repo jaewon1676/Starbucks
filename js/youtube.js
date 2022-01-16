@@ -9,9 +9,9 @@ firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 //    after the API code downloads.
 function onYouTubeIframeAPIReady() {
   player = new YT.Player('player', {
-    height: '360',
-    width: '640',
-    videoId: '0sHgjMAJTKI', // 최초 재생할 유튜브 영상 ID
+    height: '360',  // 크기
+    width: '640',  // 너비
+    videoId: '0sHgjMAJTKI', // 재생할 유튜브 영상 ID
     playerVars:{
         autoplay: true, // 자동 재생 유무
         loop: true, // 반복 재생 유무

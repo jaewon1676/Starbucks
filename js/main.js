@@ -1,15 +1,26 @@
-'use strict'
+// 검색창
+const searchEl = document.querySelector('.search') // 검색창 요소(.search) 찾기
+const searchInputEl = searchEl.querySelector('input') // input 요소(.input) 찾기
+
+searchEl.addEventListener('click', function () { // 검색창 요소를 클릭하면 실행.
+  searchInputEl.focus() // input 요소를 포커스 해준다.
+})
+
+searchInputEl.addEventListener('focus', function () { // 검색창 요소 내부 input 요소가 포커스되면 실행.
+  searchEl.classList.add('focused') //  focused라는 class를 추가.
+  searchInputEl.setAttribute('placeholder', '통합검색')
+})
+
+searchInputEl.addEventListener('blur', function () { // 검색창 요소 내부 input 요소에서 포커스가 해제(블러)되면 실행.
+  searchEl.classList.remove('focused') // focused라는 class를 제거
+  searchInputEl.setAttribute('placeholder', '')
+})
 
 
-
-
-/**
- * 페이지 스크롤에 따른 요소 제어
- */
-// 페이지 스크롤에 영향을 받는 요소들을 검색!
+// 페이지 스크롤에 영향을 받는 요소들을 검색
 const badgeEl = document.querySelector('header .badges')
 const toTopEl = document.querySelector('#to-top')
-// 페이지에 스크롤 이벤트를 추가!
+
 // 스크롤이 지나치게 자주 발생하는 것을 조절(throttle, 일부러 부하를 줌)
 window.addEventListener('scroll', _.throttle(function () {
   // 페이지 스크롤 위치가 500px이 넘으면.
@@ -46,9 +57,8 @@ toTopEl.addEventListener('click', function () {
 })
 
 
-/**
- * 순서대로 나타나는 기능
- */
+
+// 순서대로 나타내는 효과
 // 나타날 요소들(.fade-in) 찾기.
 const fadeEls = document.querySelectorAll('.visual .fade-in')
 // 나타날 요소들을 하나씩 반복해서 처리!
@@ -61,15 +71,15 @@ fadeEls.forEach(function (fadeEl, index) {
 })
 
 
-/**
- * 슬라이드 요소 관리
- */
-new Swiper('.notice-line .swiper-container', {
+
+// 슬라이드 요소 관리
+new Swiper('.notice-line .swiper-container', { // 공지사항 슬라이드
   direction: 'vertical', // 수직 슬라이드
   autoplay: true, // 자동 재생 여부
   loop: true // 반복 재생 여부
 })
-new Swiper('.promotion .swiper-container', {
+
+new Swiper('.promotion .swiper-container', { // 프로모션 슬라이드
   // direction: 'horizontal', // 수평 슬라이드
   autoplay: { // 자동 재생 여부
     delay: 5000 // 5초마다 슬라이드 바뀜
@@ -87,6 +97,7 @@ new Swiper('.promotion .swiper-container', {
     nextEl: '.promotion .swiper-next' // 다음 버튼 선택자
   }
 })
+
 new Swiper('.awards .swiper-container', {
   // direction: 'horizontal', // 수평 슬라이드
   autoplay: true, // 자동 재생 여부
