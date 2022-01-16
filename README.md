@@ -1,6 +1,6 @@
 # ☕ Starbucks
 HTML5, CSS, Javascript 학습을 위한 웹 페이지 제작  
-<img src='https://user-images.githubusercontent.com/63529753/149654434-3780ce9f-259a-435c-8a9f-98bf2dfd7215.PNG' width='50%' height='50%' />
+<img src='https://user-images.githubusercontent.com/63529753/149654434-3780ce9f-259a-435c-8a9f-98bf2dfd7215.PNG' width='80%' height='70%' />
 
 <br>
 
