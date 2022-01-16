@@ -1,5 +1,7 @@
 # ☕ Starbucks
 HTML5, CSS, Javascript 학습을 위한 웹 페이지 제작  
+<img src='https://user-images.githubusercontent.com/63529753/149654434-3780ce9f-259a-435c-8a9f-98bf2dfd7215.PNG' width='50%' height='50%' />
+
 <br>
 
 # URL배포
@@ -59,7 +61,6 @@ HTML5, CSS, Javascript 학습을 위한 웹 페이지 제작
 ![youtube](https://user-images.githubusercontent.com/63529753/149654400-41966a4c-1efc-435e-98b6-b9dd73ec8ee7.gif)
 ![slide](https://user-images.githubusercontent.com/63529753/149654401-d854523a-9827-4f55-975f-2bc4fa802a43.gif)
 ![notice](https://user-images.githubusercontent.com/63529753/149654402-33aed94a-1e0a-4ce2-9efe-d97577849473.gif)
-![starbucks](https://user-images.githubusercontent.com/63529753/149654434-3780ce9f-259a-435c-8a9f-98bf2dfd7215.PNG)
 
 
 youtubeAPI
