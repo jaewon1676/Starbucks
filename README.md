@@ -47,20 +47,41 @@ HTML5, CSS, Javascript 학습을 위한 웹 페이지 제작
 * Material Icons
 * Swiper
 *
-*
 
-* <details markdown="1">
+
+<details markdown="1">
 <summary>배지</summary>
 <img src='https://user-images.githubusercontent.com/63529753/149654396-049429be-7bc5-45f5-ac9a-efb56c532151.gif' width='40%' height='30%'/>
-
 </details>
 
+<details markdown="1">
+<summary>배지</summary>
 ![toggle](https://user-images.githubusercontent.com/63529753/149654397-3492e028-e7b2-4f19-983f-85d0467535b0.gif)
-![search](https://user-images.githubusercontent.com/63529753/149654398-5be9488e-aa52-4432-9886-dac5fe2ad69c.gif)
-![fade-in](https://user-images.githubusercontent.com/63529753/149654399-7fcac938-2a5f-4169-843e-535e242ae248.gif)
-![youtube](https://user-images.githubusercontent.com/63529753/149654400-41966a4c-1efc-435e-98b6-b9dd73ec8ee7.gif)
-![slide](https://user-images.githubusercontent.com/63529753/149654401-d854523a-9827-4f55-975f-2bc4fa802a43.gif)
-![notice](https://user-images.githubusercontent.com/63529753/149654402-33aed94a-1e0a-4ce2-9efe-d97577849473.gif)
+</details>
 
+<details markdown="1">
+<summary>배지</summary>
+![search](https://user-images.githubusercontent.com/63529753/149654398-5be9488e-aa52-4432-9886-dac5fe2ad69c.gif)
+</details>
+
+<details markdown="1">
+<summary>배지</summary>
+![fade-in](https://user-images.githubusercontent.com/63529753/149654399-7fcac938-2a5f-4169-843e-535e242ae248.gif)
+</details>
+
+<details markdown="1">
+<summary>배지</summary>
+![youtube](https://user-images.githubusercontent.com/63529753/149654400-41966a4c-1efc-435e-98b6-b9dd73ec8ee7.gif)
+</details>
+
+<details markdown="1">
+<summary>배지</summary>
+![slide](https://user-images.githubusercontent.com/63529753/149654401-d854523a-9827-4f55-975f-2bc4fa802a43.gif)
+</details>
+
+<details markdown="1">
+<summary>배지</summary>
+![notice](https://user-images.githubusercontent.com/63529753/149654402-33aed94a-1e0a-4ce2-9efe-d97577849473.gif)
+</details>
 
 youtubeAPI
