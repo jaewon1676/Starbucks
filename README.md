@@ -46,7 +46,7 @@ HTML5, CSS, Javascript 학습을 위한 웹 페이지 제작
 * GSAP
 * Material Icons
 * Swiper
-*
+* Youtube API
 
 
 <details markdown="1">
@@ -65,7 +65,17 @@ HTML5, CSS, Javascript 학습을 위한 웹 페이지 제작
 </details>
 
 <details markdown="1">
+<summary>이미지 슬라이드</summary>
+<img src='https://user-images.githubusercontent.com/63529753/149654401-d854523a-9827-4f55-975f-2bc4fa802a43.gif' width='70%' height='60%'/>
+</details>
+
+<details markdown="1">
 <summary>수직 슬라이드</summary>
+<img src='https://user-images.githubusercontent.com/63529753/149654402-33aed94a-1e0a-4ce2-9efe-d97577849473.gif' width='47%' height='60%'/>
+</details>
+
+<details markdown="1">
+<summary>fade-in</summary>
 <img src='https://user-images.githubusercontent.com/63529753/149654399-7fcac938-2a5f-4169-843e-535e242ae248.gif' width='70%' height='60%'/>
 </details>
 
@@ -74,14 +84,6 @@ HTML5, CSS, Javascript 학습을 위한 웹 페이지 제작
 <img src='https://user-images.githubusercontent.com/63529753/149654400-41966a4c-1efc-435e-98b6-b9dd73ec8ee7.gif' width='70%' height='60%'/>
 </details>
 
-<details markdown="1">
-<summary>이미지 슬라이드</summary>
-<img src='https://user-images.githubusercontent.com/63529753/149654401-d854523a-9827-4f55-975f-2bc4fa802a43.gif' width='70%' height='60%'/>
-</details>
 
-<details markdown="1">
-<summary>배지</summary>
-<img src='https://user-images.githubusercontent.com/63529753/149654402-33aed94a-1e0a-4ce2-9efe-d97577849473.gif' width='47%' height='60%'/>
-</details>
 
-youtubeAPI
+
