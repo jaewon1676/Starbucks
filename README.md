@@ -3,7 +3,7 @@ HTML5, CSS, Javascript 학습을 위한 웹 페이지 제작
 <br>
 
 # URL배포
-## [Starbucks]()
+[Starbucks]()
 <br>
  
 <br>  
