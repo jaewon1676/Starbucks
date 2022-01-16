@@ -49,7 +49,7 @@ HTML5, CSS, Javascript 학습을 위한 웹 페이지 제작
 *
 *
 
-<details markdown="1">
+* <details markdown="1">
 <summary>배지</summary>
 <img src='https://user-images.githubusercontent.com/63529753/149654396-049429be-7bc5-45f5-ac9a-efb56c532151.gif' width='40%' height='30%'/>
 
