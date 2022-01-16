@@ -1,4 +1,4 @@
-# Starbucks
+# ☕ Starbucks
 HTML5, CSS, Javascript 학습을 위한 웹 페이지 제작  
 <br>
 
@@ -47,7 +47,11 @@ HTML5, CSS, Javascript 학습을 위한 웹 페이지 제작
 *
 *
 
+<details markdown="1">
+<summary>배지</summary>
 ![badge](https://user-images.githubusercontent.com/63529753/149654396-049429be-7bc5-45f5-ac9a-efb56c532151.gif)
+</details>
+
 ![toggle](https://user-images.githubusercontent.com/63529753/149654397-3492e028-e7b2-4f19-983f-85d0467535b0.gif)
 ![search](https://user-images.githubusercontent.com/63529753/149654398-5be9488e-aa52-4432-9886-dac5fe2ad69c.gif)
 ![fade-in](https://user-images.githubusercontent.com/63529753/149654399-7fcac938-2a5f-4169-843e-535e242ae248.gif)
